@@ -56,7 +56,11 @@ Clone repo:
 ```
 git clone https://github.com/orekorekorek/hangman.git
 ```
+Install all gems with bundler:
+```
+bundle install
+```
 Enjoy:
 ```
-ruby main.rb
+bundle exec ruby main.rb
 ```
